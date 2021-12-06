@@ -1,0 +1,16 @@
+C:\Users\rootl\source\repos\DirectoriesAndFiles\ShoppingList\bin\Debug\net5.0\ShoppingListCreate.exe
+C:\Users\rootl\source\repos\DirectoriesAndFiles\ShoppingList\bin\Debug\net5.0\ShoppingListCreate.deps.json
+C:\Users\rootl\source\repos\DirectoriesAndFiles\ShoppingList\bin\Debug\net5.0\ShoppingListCreate.runtimeconfig.json
+C:\Users\rootl\source\repos\DirectoriesAndFiles\ShoppingList\bin\Debug\net5.0\ShoppingListCreate.runtimeconfig.dev.json
+C:\Users\rootl\source\repos\DirectoriesAndFiles\ShoppingList\bin\Debug\net5.0\ShoppingListCreate.dll
+C:\Users\rootl\source\repos\DirectoriesAndFiles\ShoppingList\bin\Debug\net5.0\ref\ShoppingListCreate.dll
+C:\Users\rootl\source\repos\DirectoriesAndFiles\ShoppingList\bin\Debug\net5.0\ShoppingListCreate.pdb
+C:\Users\rootl\source\repos\DirectoriesAndFiles\ShoppingList\obj\Debug\net5.0\ShoppingListCreate.csproj.AssemblyReference.cache
+C:\Users\rootl\source\repos\DirectoriesAndFiles\ShoppingList\obj\Debug\net5.0\ShoppingListCreate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rootl\source\repos\DirectoriesAndFiles\ShoppingList\obj\Debug\net5.0\ShoppingListCreate.AssemblyInfoInputs.cache
+C:\Users\rootl\source\repos\DirectoriesAndFiles\ShoppingList\obj\Debug\net5.0\ShoppingListCreate.AssemblyInfo.cs
+C:\Users\rootl\source\repos\DirectoriesAndFiles\ShoppingList\obj\Debug\net5.0\ShoppingListCreate.csproj.CoreCompileInputs.cache
+C:\Users\rootl\source\repos\DirectoriesAndFiles\ShoppingList\obj\Debug\net5.0\ShoppingListCreate.dll
+C:\Users\rootl\source\repos\DirectoriesAndFiles\ShoppingList\obj\Debug\net5.0\ref\ShoppingListCreate.dll
+C:\Users\rootl\source\repos\DirectoriesAndFiles\ShoppingList\obj\Debug\net5.0\ShoppingListCreate.pdb
+C:\Users\rootl\source\repos\DirectoriesAndFiles\ShoppingList\obj\Debug\net5.0\ShoppingListCreate.genruntimeconfig.cache

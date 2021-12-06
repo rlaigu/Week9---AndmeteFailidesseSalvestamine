@@ -1,0 +1,15 @@
+C:\Users\rootl\source\repos\DirectoriesAndFiles\MyShoppingList\obj\Debug\net5.0\MyShoppingList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rootl\source\repos\DirectoriesAndFiles\MyShoppingList\obj\Debug\net5.0\MyShoppingList.AssemblyInfoInputs.cache
+C:\Users\rootl\source\repos\DirectoriesAndFiles\MyShoppingList\obj\Debug\net5.0\MyShoppingList.AssemblyInfo.cs
+C:\Users\rootl\source\repos\DirectoriesAndFiles\MyShoppingList\obj\Debug\net5.0\MyShoppingList.csproj.CoreCompileInputs.cache
+C:\Users\rootl\source\repos\DirectoriesAndFiles\MyShoppingList\bin\Debug\net5.0\MyShoppingList.exe
+C:\Users\rootl\source\repos\DirectoriesAndFiles\MyShoppingList\bin\Debug\net5.0\MyShoppingList.deps.json
+C:\Users\rootl\source\repos\DirectoriesAndFiles\MyShoppingList\bin\Debug\net5.0\MyShoppingList.runtimeconfig.json
+C:\Users\rootl\source\repos\DirectoriesAndFiles\MyShoppingList\bin\Debug\net5.0\MyShoppingList.runtimeconfig.dev.json
+C:\Users\rootl\source\repos\DirectoriesAndFiles\MyShoppingList\bin\Debug\net5.0\MyShoppingList.dll
+C:\Users\rootl\source\repos\DirectoriesAndFiles\MyShoppingList\bin\Debug\net5.0\ref\MyShoppingList.dll
+C:\Users\rootl\source\repos\DirectoriesAndFiles\MyShoppingList\bin\Debug\net5.0\MyShoppingList.pdb
+C:\Users\rootl\source\repos\DirectoriesAndFiles\MyShoppingList\obj\Debug\net5.0\MyShoppingList.dll
+C:\Users\rootl\source\repos\DirectoriesAndFiles\MyShoppingList\obj\Debug\net5.0\ref\MyShoppingList.dll
+C:\Users\rootl\source\repos\DirectoriesAndFiles\MyShoppingList\obj\Debug\net5.0\MyShoppingList.pdb
+C:\Users\rootl\source\repos\DirectoriesAndFiles\MyShoppingList\obj\Debug\net5.0\MyShoppingList.genruntimeconfig.cache
